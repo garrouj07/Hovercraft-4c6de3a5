@@ -1,0 +1,49 @@
+td {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px;
+    text-align: center;
+    width: 50px
+}
+th {
+    text-align: center;
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px;
+    background-color: #eee;
+    width: 30px
+    height: 5px;
+}
+td
+{
+    background-color: #696969;
+    color: black;
+    border-style: solid;
+    border-color: blue;
+}
+.paars{
+    background-color: #DA70D6;
+}
+.orange{
+    background-color: #FF7F50;
+}
+.blue{
+    background-color: #4dd2ff;
+}
+.yellow{
+    background-color: #ffff80;
+}
+.paars:hover {
+    background-color: #FFFFFF;
+    cursor: grab;
+}
+.blue:hover {
+    background-color: #FFFFFF;
+    cursor: grab;
+}
+.orange:hover {
+    background-color: #FFFFFF;
+    cursor: grab;
+}
+.yellow:hover {
+    background-color: #FFFFFF;
+    cursor: grab;
+}
